@@ -14,7 +14,7 @@ class ATM{
         Scanner scan = new Scanner(System.in);
         System.out.println("Kindly enter the account number: ");
         acc = scan.nextInt();
-        System.out.println("Kindly enter the password: ");
+        System.out.println("Kindly enter the Pin Code: ");
         pwd = scan.nextInt();
     }
 
